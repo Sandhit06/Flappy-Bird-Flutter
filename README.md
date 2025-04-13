@@ -6,9 +6,9 @@ controls and vibrant graphics, Flappy Dash offers an exhilarating experience rem
 classic Flappy Bird game. How far can you dash?
 
 
-![1](https://github.com/RutvikPanchal246/FlappyDash/assets/89727738/8bbec4e4-51b0-4e45-9954-b72a3647ecf4)
-![2](https://github.com/RutvikPanchal246/FlappyDash/assets/89727738/ba8fd327-6046-405e-b99f-cefb17dd6628)
-![3](https://github.com/RutvikPanchal246/FlappyDash/assets/89727738/39a8e302-e734-410c-8807-3449d59c9aba)
+![1](https://res.cloudinary.com/dyz1paeem/image/upload/v1744562570/328598838-8bbec4e4-51b0-4e45-9954-b72a3647ecf4_k11ife.jpg)
+![2](https://res.cloudinary.com/dyz1paeem/image/upload/v1744562568/328598885-ba8fd327-6046-405e-b99f-cefb17dd6628_zttttf.jpg)
+![3](https://res.cloudinary.com/dyz1paeem/image/upload/v1744562570/328598906-39a8e302-e734-410c-8807-3449d59c9aba_dque0q.jpg)
 
 
 
@@ -16,9 +16,4 @@ classic Flappy Bird game. How far can you dash?
 
 Pull requests are always welcome
 
-# Store Release
-
-Android - https://play.google.com/store/apps/details?id=games.pocket.flappydash.flappy_dash
-
-</br>
 
